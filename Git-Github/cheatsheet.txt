@@ -1,0 +1,12 @@
+Cheatsheet Git Github
+
+Git init: sirve para inicializar el repositorio 
+Git Add: añade cambios de archivos 
+Git Commit -m "mensaje": sirve para commitear los cambios hechos
+Git Status: muestra el estado de los archivos
+Git push origin master (o la rama en la que estemos): para subir todo lo que hemos hecho en el repositorio local al repositorio remoto
+Git pull: obtiene los archivos del repositorio remoto y los combina con el repositorio local
+Git clone: crea una copia del repositorio Git 
+Git remote add origin http...: apunta al repositorio remoto
+Git branch: sirve para listar las ramas existentes 
+Git merge: fusiona una o mas ramas
